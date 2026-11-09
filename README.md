@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Wais 👋
 
-<!--
-**wais-mus/Wais-Mus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer in the Netherlands, moving into **DevOps and cloud engineering**.
+I combine 4 years of IT and systems administration with a law degree (LLB), which
+gives me a strong eye for security, compliance and documentation.
 
-Here are some ideas to get you started:
+**Currently:** working through a 27-week DevOps pathway (Linux → Docker → Terraform → Kubernetes)
+and studying for **Azure AZ-104**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:** Azure AZ-900 · Fortinet FCA · Fortinet FCF
+
+📘 Follow my progress: [devops-learning](https://github.com/wais-mus/devops-learning)
+💼 [LinkedIn](www.linkedin.com/in/wais-abubakar-bb084b187)
